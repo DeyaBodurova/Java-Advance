@@ -1,2 +1,2 @@
-public class Main git{
+public class Main {
 }
