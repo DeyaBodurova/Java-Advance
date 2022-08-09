@@ -1,4 +1,3 @@
-package Advance.hotel;
 
 public class Person {
     public String name;
