@@ -13,9 +13,9 @@ public class MultidimensionalArraysFillTheMatrix {
         String type = data[1];
         int[][] matrix = new int[size][size];
 
-        if (type.toUpperCase().equals("A")) {
+        if (type.equalsIgnoreCase("A")) {
             patternA(matrix);
-        } else if (type.toUpperCase().equals("B")) {
+        } else if (type.equalsIgnoreCase("B")) {
             patternB(matrix);
         }
         printMatrix(matrix);
