@@ -34,6 +34,5 @@ public class Main {
 //==Student: First Name = Anna, Last Name = Cameron, Best Subject = Geometry
 //==Student: First Name = Samy, Last Name = Johnson, Best Subject = Algebra
 //==Student: First Name = Rihanna, Last Name = Fenty, Best Subject = Music
-
     }
 }
